@@ -8,7 +8,7 @@ Builder of the **Kinet family** — a suite of focused macOS/iOS apps, each buil
 
 A local-first AI agent dashboard for **Windows 11 & macOS**: multi-engine sessions (Direct / Claude Code / Codex / and more), 30+ built-in tools, 21 plugins, Plugin SDK, MCP client **and** server, SQLite long-term memory with FTS5, global hotkey. Your keys, your machine, your data.
 
-⭐ If it's useful, a star helps a lot.
+**[⭐ Star KinetAios on GitHub](https://github.com/phinn/KinetAios/stargazers)** · [Windows installer (.exe)](https://github.com/phinn/KinetAios/releases/latest) · [Mac App Store](https://apps.apple.com/app/id6809450051) — v4.0.6, both platforms first-class
 
 ## 📱 The Kinet family — 19 apps on the App Store
 
@@ -51,4 +51,6 @@ A local-first AI agent dashboard for **Windows 11 & macOS**: multi-engine sessio
 
 ---
 
-<!-- Stats badge will render once the profile README is live -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=phinn&repo=KinetAios&show_owner=true&description_lines_round=2" alt="KinetAios repo card" width="480" />
+
+![Profile views](https://komarev.com/ghpvc/?username=phinn&color=0e75b6&short=true)
